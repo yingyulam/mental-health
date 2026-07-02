@@ -1,7 +1,7 @@
 # At Home or Adrift?
 
 Analysis of mental health factors between immigrants and non-immigrants in
-Canada — a CS7250 final project by Yingyu Lin & Chen Chen.
+Canada
 
 This is a **React + Vite** web app converted from the original Observable
 notebook (`src/at-home-or-adrift.md`). It presents seven interactive D3
@@ -20,7 +20,7 @@ visualizations woven into a narrative article:
 
 ```bash
 npm install
-npm run dev      # start the dev server (http://localhost:5173)
+npm run dev      # start the dev server 
 npm run build    # production build into dist/
 npm run preview  # preview the production build
 ```
@@ -52,6 +52,4 @@ src/                  # original Observable notebook + source data (untouched)
 
 ## Deploying
 
-The build is a static site. Because `base` is `"./"`, the contents of `dist/`
-can be dropped onto GitHub Pages, Netlify, or any static host with no extra
-configuration.
+Deployed on Vercel; pushes to main auto-deploy. Live at [mental-health-canada.vercel.app.](https://mental-health-canada.vercel.app)
