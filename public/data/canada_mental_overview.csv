@@ -1,0 +1,144 @@
+province,immigrant_flag,mental_score,count,population,rate
+All,1,0,180,17476,1.03
+All,1,1,849,17476,4.86
+All,1,2,4180,17476,23.92
+All,1,3,5921,17476,33.88
+All,1,4,5595,17476,32.02
+All,1,9,751,17476,4.3
+All,2,0,1552,88594,1.75
+All,2,1,5929,88594,6.69
+All,2,2,21777,88594,24.58
+All,2,3,32209,88594,36.36
+All,2,4,24205,88594,27.32
+All,2,9,2922,88594,3.3
+Alberta,1,0,27,2371,1.14
+Alberta,1,1,107,2371,4.51
+Alberta,1,2,562,2371,23.7
+Alberta,1,3,798,2371,33.66
+Alberta,1,4,782,2371,32.98
+Alberta,1,9,95,2371,4.01
+Alberta,2,0,200,9126,2.19
+Alberta,2,1,742,9126,8.13
+Alberta,2,2,2319,9126,25.41
+Alberta,2,3,3338,9126,36.58
+Alberta,2,4,2279,9126,24.97
+Alberta,2,9,248,9126,2.72
+British Columbia,1,0,34,3319,1.02
+British Columbia,1,1,176,3319,5.3
+British Columbia,1,2,857,3319,25.82
+British Columbia,1,3,1126,3319,33.93
+British Columbia,1,4,987,3319,29.74
+British Columbia,1,9,139,3319,4.19
+British Columbia,2,0,175,8648,2.02
+British Columbia,2,1,690,8648,7.98
+British Columbia,2,2,2210,8648,25.56
+British Columbia,2,3,3055,8648,35.33
+British Columbia,2,4,2264,8648,26.18
+British Columbia,2,9,254,8648,2.94
+Manitoba,1,0,8,1109,0.72
+Manitoba,1,1,40,1109,3.61
+Manitoba,1,2,250,1109,22.54
+Manitoba,1,3,360,1109,32.46
+Manitoba,1,4,371,1109,33.45
+Manitoba,1,9,80,1109,7.21
+Manitoba,2,0,104,5282,1.97
+Manitoba,2,1,330,5282,6.25
+Manitoba,2,2,1455,5282,27.55
+Manitoba,2,3,1894,5282,35.86
+Manitoba,2,4,1329,5282,25.16
+Manitoba,2,9,170,5282,3.22
+New Brunswick,1,0,2,228,0.88
+New Brunswick,1,1,7,228,3.07
+New Brunswick,1,2,42,228,18.42
+New Brunswick,1,3,99,228,43.42
+New Brunswick,1,4,67,228,29.39
+New Brunswick,1,9,11,228,4.82
+New Brunswick,2,0,89,4940,1.8
+New Brunswick,2,1,314,4940,6.36
+New Brunswick,2,2,1297,4940,26.26
+New Brunswick,2,3,1730,4940,35.02
+New Brunswick,2,4,1243,4940,25.16
+New Brunswick,2,9,267,4940,5.4
+Newfoundland and Labrador,1,1,6,182,3.3
+Newfoundland and Labrador,1,2,38,182,20.88
+Newfoundland and Labrador,1,3,67,182,36.81
+Newfoundland and Labrador,1,4,63,182,34.62
+Newfoundland and Labrador,1,9,8,182,4.4
+Newfoundland and Labrador,2,0,60,5005,1.2
+Newfoundland and Labrador,2,1,246,5005,4.92
+Newfoundland and Labrador,2,2,1087,5005,21.72
+Newfoundland and Labrador,2,3,1842,5005,36.8
+Newfoundland and Labrador,2,4,1447,5005,28.91
+Newfoundland and Labrador,2,9,323,5005,6.45
+Nova Scotia,1,0,2,410,0.49
+Nova Scotia,1,1,18,410,4.39
+Nova Scotia,1,2,79,410,19.27
+Nova Scotia,1,3,148,410,36.1
+Nova Scotia,1,4,144,410,35.12
+Nova Scotia,1,9,19,410,4.63
+Nova Scotia,2,0,99,5074,1.95
+Nova Scotia,2,1,381,5074,7.51
+Nova Scotia,2,2,1198,5074,23.61
+Nova Scotia,2,3,1941,5074,38.25
+Nova Scotia,2,4,1216,5074,23.97
+Nova Scotia,2,9,239,5074,4.71
+Ontario,1,0,79,6983,1.13
+Ontario,1,1,354,6983,5.07
+Ontario,1,2,1646,6983,23.57
+Ontario,1,3,2359,6983,33.78
+Ontario,1,4,2222,6983,31.82
+Ontario,1,9,323,6983,4.63
+Ontario,2,0,562,23015,2.44
+Ontario,2,1,1773,23015,7.7
+Ontario,2,2,5642,23015,24.51
+Ontario,2,3,8153,23015,35.42
+Ontario,2,4,6225,23015,27.05
+Ontario,2,9,660,23015,2.87
+Prince Edward Island,1,0,3,314,0.96
+Prince Edward Island,1,1,16,314,5.1
+Prince Edward Island,1,2,72,314,22.93
+Prince Edward Island,1,3,100,314,31.85
+Prince Edward Island,1,4,110,314,35.03
+Prince Edward Island,1,9,13,314,4.14
+Prince Edward Island,2,0,44,3745,1.17
+Prince Edward Island,2,1,214,3745,5.71
+Prince Edward Island,2,2,778,3745,20.77
+Prince Edward Island,2,3,1598,3745,42.67
+Prince Edward Island,2,4,911,3745,24.33
+Prince Edward Island,2,9,200,3745,5.34
+Québec,1,0,20,1911,1.05
+Québec,1,1,103,1911,5.39
+Québec,1,2,494,1911,25.85
+Québec,1,3,643,1911,33.65
+Québec,1,4,614,1911,32.13
+Québec,1,9,37,1911,1.94
+Québec,2,0,120,16810,0.71
+Québec,2,1,756,16810,4.5
+Québec,2,2,3755,16810,22.34
+Québec,2,3,6199,16810,36.88
+Québec,2,4,5643,16810,33.57
+Québec,2,9,337,16810,2.0
+Saskatchewan,1,0,2,469,0.43
+Saskatchewan,1,1,20,469,4.26
+Saskatchewan,1,2,106,469,22.6
+Saskatchewan,1,3,150,469,31.98
+Saskatchewan,1,4,169,469,36.03
+Saskatchewan,1,9,22,469,4.69
+Saskatchewan,2,0,73,5631,1.3
+Saskatchewan,2,1,371,5631,6.59
+Saskatchewan,2,2,1607,5631,28.54
+Saskatchewan,2,3,2016,5631,35.8
+Saskatchewan,2,4,1373,5631,24.38
+Saskatchewan,2,9,191,5631,3.39
+Yukon,1,0,3,180,1.67
+Yukon,1,1,2,180,1.11
+Yukon,1,2,34,180,18.89
+Yukon,1,3,71,180,39.44
+Yukon,1,4,66,180,36.67
+Yukon,1,9,4,180,2.22
+Yukon,2,0,26,1318,1.97
+Yukon,2,1,112,1318,8.5
+Yukon,2,2,429,1318,32.55
+Yukon,2,3,443,1318,33.61
+Yukon,2,4,275,1318,20.86
+Yukon,2,9,33,1318,2.5
